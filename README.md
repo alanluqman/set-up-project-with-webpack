@@ -4,8 +4,8 @@
 
 - Html
 - Css
-- Bootstrap
 - JavaScript
+- Webpack
 
 
 ## Authors
